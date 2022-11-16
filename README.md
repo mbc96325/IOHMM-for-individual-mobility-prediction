@@ -9,13 +9,15 @@ Data is not avaiable due to privacy issues.
 
 ## Cite the project
 ```
-@article{mo2021individual,
-  title={Individual mobility prediction in mass transit systems using smart card data: an interpretable Activity-based hidden Markov approach},
-  author={Mo, Baichuan and Zhao, Zhan and Koutsopoulos, Haris N and Zhao, Jinhua},
-  journal={IEEE Transactions on Intelligent Transportation Systems},
-  year={2021},
-  publisher={IEEE}
-}
+@ARTICLE{9537634,
+  author={Mo, Baichuan and Zhao, Zhan and Koutsopoulos, Haris N. and Zhao, Jinhua},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Individual Mobility Prediction in Mass Transit Systems Using Smart Card Data: An Interpretable Activity-Based Hidden Markov Approach}, 
+  year={2022},
+  volume={23},
+  number={8},
+  pages={12014-12026},
+  doi={10.1109/TITS.2021.3109428}}
 ```
 
 
